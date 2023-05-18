@@ -1,0 +1,11 @@
+Pegue uma tigela;
+Coloque 1 colher de manteiga;
+Coloque 1 lata de leite condensado;
+Coloque 1 copo de leite;
+Coloque 3 colheres de chocolate em pó;
+Misture os ingredietes;
+Despeje em uma panela para ir ao fogo;
+Ligue o fogo;
+Coloque a panela no fogo;
+Misture os ingredientes até ferver e obter uma textura cremosa;
+Desligue o forno;
